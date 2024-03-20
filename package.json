@@ -1,0 +1,23 @@
+{
+  "name": "valleywelding",
+  "version": "1.0.0",
+  "description": "Valley Welding Business Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianpocasangre/valleywelding.git"
+  },
+  "author": "Brian Pocasangre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpocasangre/valleywelding/issues"
+  },
+  "homepage": "https://github.com/brianpocasangre/valleywelding#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
