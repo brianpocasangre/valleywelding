@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/brianpocasangre/valleywelding#readme",
   "devDependencies": {
+    "prettier": "3.2.5",
     "tailwindcss": "^3.4.1"
   }
 }
